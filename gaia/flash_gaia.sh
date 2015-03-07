@@ -13,7 +13,7 @@
 # parameter 2: --no-update to use local information without update repos
 
 # Change you locale code here
-localecode="it"
+localecode="ff"
 # Folder used to store Gaia and locale repositories
 repofolder="$HOME/moz/"
 
